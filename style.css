@@ -1,0 +1,64 @@
+<html>
+<head>
+
+<style>
+body{
+	 background-image:url("/home/admin1/windows 10.png");
+	background-repeat:no-repeat;
+	background-size:100% 80%
+}
+h3{
+text-align:center;
+text-decoration:underline;
+}
+h1{
+text-decoration:underline;
+text-align:center;
+text-shadow:2px 2px gray;
+color:white;
+}
+
+
+h2{
+font-family:"times new roman";
+font-size:20px;
+color:red;
+}
+ol{
+text-decoration:underline;
+font-weight: bold;
+color:#ff0066;
+font-family:"Bookman Old Style";
+}
+ul.a{
+
+font-weight:normal;
+font-family:"Arial";
+color:green;
+}
+
+ul.b{
+
+font-weight:normal;
+font-family:"Serif";
+color:yelow;
+font-style:italic;
+}
+ul.c{
+
+font-weight:normal;
+font-family:"Antigua";
+color:white;
+}
+
+div{
+
+background-image:url("/home/admin1/my college.jpeg");
+height:60%;
+width:60%;
+background-position:center;
+}
+
+</html>
+</head>
+</style>
