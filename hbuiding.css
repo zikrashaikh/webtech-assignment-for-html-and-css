@@ -1,0 +1,49 @@
+<html>
+<head>
+
+<style>
+body{
+	 background-image:url("C:\Users\hp\Desktop\hostel1.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 80%
+}
+h3{
+text-align:center;
+text-decoration:underline;
+}
+h1{
+text-decoration:underline;
+text-align:center;
+text-shadow:2px 2px gray;
+color:white;
+}
+
+
+h2{
+font-family:"times new roman";
+font-size:20px;
+color:red;
+}
+ol{
+text-decoration:underline;
+font-weight: bold;
+color:#ff0066;
+font-family:"Bookman Old Style";
+}
+ul.a{
+
+font-weight:normal;
+font-family:"Arial";
+color:green;
+}
+div{
+
+background-image:url("C:\Users\hp\Desktop\hbuilding.jpg");
+height:60%;
+width:60%;
+background-position:center;
+}
+
+</html>
+</head>
+</style>
